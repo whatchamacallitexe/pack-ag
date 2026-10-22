@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<script src="https://glaxyias.github.io/JS/cdn-resilient.js"></script>
+<meta charset="utf-8">
+<title>Indian Truck Simulator 3D</title>
+<link rel="stylesheet" href="https://rawcdn.githack.com/witsarutsupsi/vksim/1abf0740b1940621125f025a5e30d3dad2aa07bf/static/TemplateData/style.css">
+<script src="https://rawcdn.githack.com/witsarutsupsi/vksim/1abf0740b1940621125f025a5e30d3dad2aa07bf/static/TemplateData/UnityProgress.js"></script>
+<script src="https://rawcdn.githack.com/trafficjam3d/indian-truck-simulator-3d/ca1af9ee63406f1915bcd2a336f32a5caf2b1a3d/Build/UnityLoader.js"></script>
+<script>
+var gameInstance = UnityLoader.instantiate(
+  "gameContainer",
+  "https://rawcdn.githack.com/trafficjam3d/indian-truck-simulator-3d/ca1af9ee63406f1915bcd2a336f32a5caf2b1a3d/Build/indian_truck_gd_2_0_1.json", {
+    onProgress: UnityProgress,
+    Module: {
+      onRuntimeInitialized: function() {
+        UnityProgress(gameInstance, "complete")
+      }
+    }
+  });
+</script>
+</head>
+<body style="overflow:hidden; margin:0; padding:0;">
+<div class="webgl-content" style="position: absolute; width: 100%; height: 100%; margin: 0px; padding:0px;">
+<div id="gameContainer" style="width: 100%; height: 100%; margin: 0px; padding: 0px; border: 0px; position: relative; background: rgb(35, 31, 32);"></div>
+</div>
+</body>
+</html>
