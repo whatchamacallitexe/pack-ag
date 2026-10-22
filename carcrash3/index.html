@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<script src="https://glaxyias.github.io/JS/cdn-resilient.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Car Crash 3</title>
+<style>body{margin:0;background:#000;}</style>
+</head>
+<body>
+<div id="unity-container" class="unity-desktop">
+<canvas id="unity-canvas" style="width:100%;height:100%;"></canvas>
+</div>
+<script>
+const buildUrl = "https://cdn.jsdelivr.net/gh/teipoipictume8125/laravel@468108e0b03553eacf450a290b148f097600ccb3/factory";
+const config = {
+  dataUrl: buildUrl + "/cct.data.unityweb",
+  frameworkUrl: buildUrl + "/cct.js.unityweb",
+  codeUrl: buildUrl + "/cct.wasm.unityweb",
+  companyName: "JustPlay",
+  productName: "CarCrashTest",
+  productVersion: "1"
+};
+const canvas = document.querySelector("#unity-canvas");
+const script = document.createElement("script");
+script.src = buildUrl + "/cct.js";
+script.onload = () => {
+  createUnityInstance(canvas, config);
+};
+document.body.appendChild(script);
+</script>
+</body>
+</html>
