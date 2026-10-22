@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://glaxyias.github.io/JS/cdn-resilient.js"></script>
+<base href="https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/bioevil4/">
+<meta charset="UTF-8" />
+<title>Bio Evil 4</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<style>
+* { padding: 0; margin: 0; }
+html, body { background: #000; color: #fff; overflow: hidden; touch-action: none; }
+canvas { touch-action: none; }
+</style>
+</head>
+<body>
+<div id="c2canvasdiv">
+<canvas id="c2canvas" width="256" height="240"></canvas>
+</div>
+<script src="jquery-2.1.1.min.js"></script>
+<script src="c2runtime.js"></script>
+<script>
+jQuery(document).ready(function () {
+  cr_createRuntime("c2canvas");
+});
+</script>
+</body>
+</html>

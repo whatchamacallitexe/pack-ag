@@ -4,14 +4,17 @@
 <script src="https://glaxyias.github.io/JS/cdn-resilient.js"></script>
 <meta charset="utf-8">
 <title>BitLife - Life Simulator</title>
-<style>body,html{margin:0;padding:0;width:100%;height:100%;overflow:hidden;background:#333;}#gameContainer{width:100%;height:100%;}</style>
+<style>
+body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background: #333; }
+#gameContainer { position: absolute; height: 100%; width: 100%; }
+</style>
 <script src="https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/bitlife/TemplateData/UnityProgress.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/bitlife/Build/UnityLoader.js"></script>
-</head>
-<body>
-<div id="gameContainer"></div>
 <script>
 var unityInstance = UnityLoader.instantiate("gameContainer", "https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/bitlife/Build/BitLife.json", {onProgress: UnityProgress});
 </script>
+</head>
+<body>
+<div id="gameContainer" style="width: 100%; height: 100%;"></div>
 </body>
 </html>
