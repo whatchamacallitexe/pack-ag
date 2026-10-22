@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<script src="https://glaxyias.github.io/JS/cdn-resilient.js"></script>
+<meta charset="utf-8">
+<title>BlightBorne</title>
+<style>
+* { margin: 0; padding: 0; }
+body { overflow: hidden; background: #000; }
+#webgl-content { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; height: 100%; }
+</style>
+<script src="https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@9508025c48ffb5b9f8ee427646ff77d7d3406099/Blightborne/Build/UnityLoader.js"></script>
+<script>
+function UnityProgress(gameInstance, progress) {
+  // simplified
+}
+var gameInstance = UnityLoader.instantiate("gameContainer", "https://rawcdn.githack.com/bubbls/UGS-Assets/9508025c48ffb5b9f8ee427646ff77d7d3406099/Blightborne/Build/Kong%20Build%20v1.4.1.json", {
+  onProgress: UnityProgress
+});
+</script>
+</head>
+<body>
+<div id="webgl-content">
+<div id="gameContainer" style="width: 100%; height: 100%"></div>
+</div>
+</body>
+</html>
