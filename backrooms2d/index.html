@@ -28,11 +28,11 @@ function unityShowBanner(msg, type) {
   updateBannerVisibility();
 }
 var buildUrl = "";
-var loaderUrl = "https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.loader.js";
+var loaderUrl = "assets/cdn/628d8477-7-21-23.loader.js";
 var config = {
   dataUrl: "https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.data",
-  frameworkUrl: "https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.framework.js",
-  codeUrl: "https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.wasm",
+  frameworkUrl: "assets/cdn/d2cec1ef-7-21-23.framework.js",
+  codeUrl: "assets/cdn/7df91c1d-7-21-23.wasm",
   streamingAssetsUrl: "StreamingAssets",
   companyName: "JujuProdGames",
   productName: "Backrooms 2D",
@@ -47,7 +47,7 @@ if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
 } else {
   canvas.style.width = "1280px"; canvas.style.height = "720px";
 }
-canvas.style.background = "url('https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.jpg') center / cover";
+canvas.style.background = "url('assets/cdn/42732f24-7-21-23.jpg') center / cover";
 loadingBar.style.display = "block";
 var script = document.createElement("script");
 script.src = loaderUrl;
