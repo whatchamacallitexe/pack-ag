@@ -1,10 +1,6 @@
 FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@63f44d001c95b775db57a9796ec7668541975062/B3113/b3313.z64: curl: (22) The requested URL returned error: 404
 
-FILE backrooms2d: https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.loader.js -> assets/cdn/628d8477-7-21-23.loader.js
 SKIP size 77.5MB https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.data
-FILE backrooms2d: https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.framework.js -> assets/cdn/d2cec1ef-7-21-23.framework.js
-FILE backrooms2d: https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.wasm -> assets/cdn/7df91c1d-7-21-23.wasm
-FILE backrooms2d: https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.jpg -> assets/cdn/42732f24-7-21-23.jpg
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@fc90257b218bfa38c619cac18bdebf4da9fc3c0a/backyard%20soccer/Backyard%20Soccer%20(USA).chd: curl: (22) The requested URL returned error: 404
@@ -21,7 +17,6 @@ FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a5648
 
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE blightborne: https://rawcdn.githack.com/bubbls/UGS-Assets/9508025c48ffb5b9f8ee427646ff77d7d3406099/Blightborne/Build/Kong%20Build%20v1.4.1.json -> assets/cdn/d5f3e5c2-Kong_Build_v1.4.1.json
 FAILED https://cdn.jsdelivr.net/gh/genizy/bl/TemplateData/favicon.ico: curl: (22) The requested URL returned error: 403
 
 FAILED https://cdn.jsdelivr.net/gh/genizy/bl/TemplateData/style.css: curl: (22) The requested URL returned error: 403
@@ -42,8 +37,3 @@ FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/civiballs/index.html: 
 
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE trafficjam3d: https://rawcdn.githack.com/bubbls/UGS-Assets/c0f81b71d9a45688dcdb9a7a0303ebe5c424e4f2/traffic%20jam%203d/Build/TrafficJam3D-build-4.json -> assets/cdn/d1749074-TrafficJam3D-build-4.json
-FILE trucksim: https://rawcdn.githack.com/witsarutsupsi/vksim/1abf0740b1940621125f025a5e30d3dad2aa07bf/static/TemplateData/style.css -> assets/cdn/f4c7189b-style.css
-FILE trucksim: https://rawcdn.githack.com/witsarutsupsi/vksim/1abf0740b1940621125f025a5e30d3dad2aa07bf/static/TemplateData/UnityProgress.js -> assets/cdn/97340698-UnityProgress.js
-FILE trucksim: https://rawcdn.githack.com/trafficjam3d/indian-truck-simulator-3d/ca1af9ee63406f1915bcd2a336f32a5caf2b1a3d/Build/UnityLoader.js -> assets/cdn/edd430a9-UnityLoader.js
-FILE trucksim: https://rawcdn.githack.com/trafficjam3d/indian-truck-simulator-3d/ca1af9ee63406f1915bcd2a336f32a5caf2b1a3d/Build/indian_truck_gd_2_0_1.json -> assets/cdn/6fa7c914-indian_truck_gd_2_0_1.json
