@@ -1,0 +1,112 @@
+EMU OK genizy/emu@master cores=fceumm,melonds,mgba,mupen64plus_next,snes9x,stella2014
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@63f44d001c95b775db57a9796ec7668541975062/B3113/b3313.z64: curl: (22) The requested URL returned error: 404
+
+BASE OK bubbls/UGS-Assets@ab3e2b7f551bcab53684a867b5bc3acfd406ebc6/babel tower -> babeltower
+BASE REWRITE babeltower
+FILE backrooms2d: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/TemplateData/style.css -> assets/cdn/db776db0-style.css
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE backyardbaseball: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE backyardbaseball: https://cdn.jsdelivr.net/gh/jackilyna/jpexs-decompiler@d7faf59c568d293546266b2c02fafea47955817c/examples/backyard-baseball.swf -> ../_shared/3c1ecdba0b80-backyard-baseball.swf
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@fc90257b218bfa38c619cac18bdebf4da9fc3c0a/backyard%20soccer/Backyard%20Soccer%20(USA).chd: curl: (22) The requested URL returned error: 404
+
+FILE backyardsoccer: https://cdn.jsdelivr.net/gh/Abdess/retroarch_system@5f96368f6dbad5851cdb16a5041fefec4bdcd305/Sony%20-%20PlayStation/scph5501.bin -> assets/cdn/7e5c01d1-scph5501.bin
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE badicecream: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE badicecream: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@8fecedfd237e90740ce30b860005e6819b6df9cd/Bad-Ice-Cream.swf -> ../_shared/3251618f0034-Bad-Ice-Cream.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE banditgunslingers: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE banditgunslingers: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@b1fe3c04d409a9b24cbeb31edeafb395f541c7f8/bandit-gunslingers.swf -> assets/cdn/e6c8dd2b-bandit-gunslingers.swf
+FILE banjokazooie: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/banjokazooie/banjokazooie.zip -> assets/cdn/55ac5020-banjokazooie.zip
+FILE banjokazooie: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE battlezone: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@00b075dab1123c34f488d1e9c87c945716887ede/Battlezone%20(Japan%2C%20USA)%20(En).zip -> assets/cdn/df36d255-Battlezone_Japan_USA_En_.zip
+FILE battlezone: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE ben10protector: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@c83bc1daff4bcfce438af4857b7b58d431ce17c9/Ben%2010%20-%20Protector%20of%20Earth%20(USA).zip -> assets/cdn/3eb5f9c6-Ben_10_-_Protector_of_Earth_USA_.zip
+FILE ben10protector: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE ben10protector: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE ben10racing: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@97b02db4144b0f854e0019af9a4acec46cbeeb22/Ben%2010%20-%20Galactic%20Racing%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).zip -> assets/cdn/b5e0eb10-Ben_10_-_Galactic_Racing_USA_En_Fr_De_Es_It_.zip
+FILE ben10racing: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE ben10racing: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@7759113f0ec45c4b7ca6b1c8701dc40d75d5dc3c/Ben%2010%20-%20Ultimate%20Alien%20-%20Cosmic%20Destruction%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)/Ben%2010%20-%20Ultimate%20Alien%20-%20Cosmic%20Destruction%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).nds: curl: (22) The requested URL returned error: 404
+
+FILE bigicetowertinysquare: https://cdn.jsdelivr.net/gh/bubbls/ruffle@27b6c35b8b4c4b1bc73bc09ce01c9a6d7dba0e5d/2min.js -> assets/cdn/0bd8d6e1-2min.js
+FILE bigicetowertinysquare: https://cdn.jsdelivr.net/gh/bubbls/ruffle@27b6c35b8b4c4b1bc73bc09ce01c9a6d7dba0e5d/runtimee.js -> assets/cdn/9f2404e4-runtimee.js
+FILE bigneontowertinysquare: https://cdn.jsdelivr.net/gh/bubbls/ruffle@cffc5228787a33d303fc45db671a9dd7de905fd5/icestyle.css -> assets/cdn/fd5d1f1d-icestyle.css
+FILE bigneontowertinysquare: https://cdn.jsdelivr.net/gh/bubbls/ruffle@cffc5228787a33d303fc45db671a9dd7de905fd5/icewasm.js -> assets/cdn/c2866a13-icewasm.js
+FILE bigneontowertinysquare: https://cdn.jsdelivr.net/gh/bubbls/ruffle@cffc5228787a33d303fc45db671a9dd7de905fd5/icecheck.js -> assets/cdn/0d4474da-icecheck.js
+FILE bigneontowertinysquare: https://cdn.jsdelivr.net/gh/bubbls/ruffle@cffc5228787a33d303fc45db671a9dd7de905fd5/office.js -> assets/cdn/40c3b540-office.js
+FILE bigneontowertinysquare: https://cdn.jsdelivr.net/gh/bubbls/ruffle@cffc5228787a33d303fc45db671a9dd7de905fd5/mainice.js -> assets/cdn/0b8ec9ba-mainice.js
+FILE bigneontowertinysquare: https://cdn.jsdelivr.net/gh/bubbls/ruffle@cffc5228787a33d303fc45db671a9dd7de905fd5/regisice.js -> assets/cdn/1a59fefd-regisice.js
+FILE bigshotboxing: https://cdn.jsdelivr.net/gh/bubbls/ruffle@928ddafef660400819c125b731bea55248b1f6de/boxing.js -> assets/cdn/6f02ed85-boxing.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE bindingofisaccsheeptime: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE bindingofisaccsheeptime: https://cdn.jsdelivr.net/gh/RobiFet/CMinterview@a4017231eca9f2173ad7ec0e63b01e4786b4ad6b/web/src/BiWrath.swf -> ../_shared/7b2076d132a8-BiWrath.swf
+BASE OK Stinkalistic/junk@main/bioevil4 -> bioevil4
+BASE REWRITE bioevil4
+FILE bitlife: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/bitlife/TemplateData/UnityProgress.js -> assets/cdn/257748aa-UnityProgress.js
+FILE bitlife: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/bitlife/Build/UnityLoader.js -> assets/cdn/790170b9-UnityLoader.js
+FILE bitlife: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/bitlife/Build/BitLife.json -> assets/cdn/6b3e6591-BitLife.json
+FILE bitplanes: https://cdn.jsdelivr.net/gh/selenite-cc/selenite-old@9c743188888af0986c8c7b293dbac8f9e421a4ee/bit-planes/styles.css -> assets/cdn/151e55c0-styles.css
+FILE bitplanes: https://cdn.jsdelivr.net/gh/selenite-cc/selenite-old@9c743188888af0986c8c7b293dbac8f9e421a4ee/bit-planes/index.js -> assets/cdn/8026aa84-index.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE blackjack: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE blackjack: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@1b4d236a0c262a78cd71ea796f519b58d870dc21/blackjack.swf -> assets/cdn/8b752888-blackjack.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE blacksmithlab: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE blacksmithlab: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@e878b4f229cd8aac0ada2a9b86a20487a501ef42/blacksmith-lab.swf -> ../_shared/4a6cb38dabaa-blacksmith-lab.swf
+BASE OK Stinkalistic/UGS@main/UNITY/blastronaut -> blastronaut
+BASE REWRITE blastronaut
+FILE blightborne: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@9508025c48ffb5b9f8ee427646ff77d7d3406099/Blightborne/Build/UnityLoader.js -> assets/cdn/44b080ea-UnityLoader.js
+FAILED https://cdn.jsdelivr.net/gh/genizy/bl/TemplateData/favicon.ico: curl: (22) The requested URL returned error: 403
+
+FAILED https://cdn.jsdelivr.net/gh/genizy/bl/TemplateData/style.css: curl: (22) The requested URL returned error: 403
+
+FILE bmx2: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE cactusmccoy: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE cactusmccoy: https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/cactusmccoy.swf -> ../_shared/22a8b17a56c7-cactusmccoy.swf
+FILE cactusmccoy2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE cactusmccoy2: https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/cactusmccoy2.swf -> assets/cdn/12cabc7a-cactusmccoy2.swf
+BASE OK bubbls/youtube-playables@main/cannon-balls-3d -> cannonballs3d
+BASE REWRITE cannonballs3d
+FILE cannonballs3d: https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/ytgame.js -> assets/cdn/20058cc1-ytgame.js
+FILE cannonfodder: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@01b571b5914da40fab49b14349e37cdfc1551b36/Cannon%20Fodder%20(World).zip -> assets/cdn/caf631d7-Cannon_Fodder_World_.zip
+FILE cannonfodder: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+BASE OK bubbls/UGS-Assets@027a7fc4b20820dc401547a74cf4f2ee875cd3e2/capybara clicker -> capybaraclicker
+BASE REWRITE capybaraclicker
+FILE castlevania: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/games/castlevania/Classic%20NES%20Series%20-%20Castlevania%20(USA).gba -> assets/cdn/7c5f51db-Classic_NES_Series_-_Castlevania_USA_.gba
+FILE castlevania: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+BASE OK Stinkalistic/UGS@main/MISC/cavestory -> cavestory
+BASE REWRITE cavestory
+FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/pico8/celeste.js: curl: (22) The requested URL returned error: 404
+
+FILE cheesechompers3d: https://cdn.jsdelivr.net/gh/bubbls/cheesechomp@7adf6b379977b88fe2becd36070c546d462f1eec/TemplateData/styles.css -> assets/cdn/861db7e8-styles.css
+FILE chickenwar: https://cdn.jsdelivr.net/gh/a456pur/seraph@main/storage/emulatorjs/data/loader.js -> assets/cdn/de496c9c-loader.js
+FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@main/chickenwar.gba: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@main/chronotrigger.smc: curl: (22) The requested URL returned error: 404
+
+FILE tastyplanet: https://cdn.jsdelivr.net/gh/7DatsonBack/3kh0-Assets@60f2f97b00ffe9566ee06c82ecaf67255931118b/Run%202/waflash/waflash-style.css -> assets/cdn/f8a73723-waflash-style.css
+FILE tastyplanet: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@42710034f93536b11e84fdfa98b2814d6b02d911/tasty-planet.swf -> assets/cdn/890aa3bf-tasty-planet.swf
+FILE tastyplanet: https://cdn.jsdelivr.net/gh/zhit73/wafedit@183cb00916e4d250ae5bc9813864f9a70cb9986b/wasm/waflash-player.min.js -> assets/cdn/aed266bb-waflash-player.min.js
+BASE OK genizy/google-class@HEAD/temple-run-2 -> templerun2
+BASE REWRITE templerun2
+FILE tetris: https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap -> ../_shared/1d6ed7624a20-fonts-1d6ed7624a.css
+FILE tetris: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@35728ab339fe19751152ee79e06fe3b419bd8b59/Tetris%20(USA).zip -> assets/cdn/7e9b3afc-Tetris_USA_.zip
+FILE tetris: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE tetrisattack: https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap -> ../_shared/1d6ed7624a20-fonts-1d6ed7624a.css
+FILE tetrisattack: https://cdn.jsdelivr.net/gh/bubbls/clsm64@083df42a6f197fcd23f5eed15b80faf80f5275ad/Tetris%20Attack%20(U)%20%5B!%5D.zip -> assets/cdn/b983e476-Tetris_Attack_U_.zip
+FILE tetrisattack: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE theimpossiblegame: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE theimpossiblegame: https://cdn.jsdelivr.net/gh/mmtrucefacts/whitespider@64d398118cd6d83f82b111af4972f8a6d07fc167/games/flash/the-impossible-game-lite.swf -> ../_shared/1be1c225d578-the-impossible-game-lite.swf
+FILE trafficjam3d: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@c0f81b71d9a45688dcdb9a7a0303ebe5c424e4f2/traffic%20jam%203d/TemplateData/style.css -> assets/cdn/767d3e1f-style.css
+FILE trafficjam3d: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@c0f81b71d9a45688dcdb9a7a0303ebe5c424e4f2/traffic%20jam%203d/TemplateData/UnityProgress.js -> assets/cdn/f6ff7b1c-UnityProgress.js
+FILE trafficjam3d: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@c0f81b71d9a45688dcdb9a7a0303ebe5c424e4f2/traffic%20jam%203d/Build/UnityLoader.js -> assets/cdn/8da51bfc-UnityLoader.js
